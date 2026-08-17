@@ -47,3 +47,7 @@ src/visual_computer_mcp/backends/windows_wsl.py
 skill/SKILL.md
 tests/smoke.py
 ```
+
+## License
+
+Licensed under the Apache License, Version 2.0. See `LICENSE` for details.
