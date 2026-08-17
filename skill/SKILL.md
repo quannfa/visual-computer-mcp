@@ -1,6 +1,6 @@
 # Visual Computer Use
 
-Use the platform-specific visual MCP (`windows-visual` or `visual-161`) as a stateless full-screen visual I/O device.
+Use the platform-specific visual MCP server as a stateless full-screen visual I/O device.
 
 - Start with `screenshot` to inspect the current desktop.
 - Never invent a precise click coordinate when the target is visually uncertain.
